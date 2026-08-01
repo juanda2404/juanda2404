@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="profile.jpg" width="180" style="border-radius:50%; margin-bottom: 15px;" alt="Juan David Collazos">
   <h1>¡Hola! Soy Juan David Collazos 👋</h1>
   <h3>Ingeniero Informático en formación | Apasionado por los Datos y el Backend</h3>
 </div>
